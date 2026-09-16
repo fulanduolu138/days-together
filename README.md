@@ -58,7 +58,3 @@
 | 深夜 · 星轨 | 信纸 · 白昼 |
 |---|---|
 | ![深夜](docs/main-night.png) | ![信纸](docs/main-paper.png) |
-
-| 设置 | 支持一下 |
-|---|---|
-| ![设置](docs/settings.png) | ![支持](docs/support.png) |

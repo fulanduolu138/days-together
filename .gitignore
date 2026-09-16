@@ -1,0 +1,5 @@
+*.keystore
+keys/
+build/
+备份_*.tar.gz
+*.idsig
